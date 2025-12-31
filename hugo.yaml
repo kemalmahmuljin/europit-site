@@ -1,6 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://www.europit.eu/
 languageCode: en-us
-title: My New Hugo Site
+title: EuropIT
 
 module:
   imports:
