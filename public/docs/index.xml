@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site – Docs</title>
+    <title> – Docs</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs on My New Hugo Site</description>
+    <description>Recent content in Docs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Dec 2025 17:35:34 +0100</lastBuildDate>
@@ -14,6 +14,42 @@
         
       
     
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/docs/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/introduction/</guid>
+      <description>
+        
+        
+        &lt;p&gt;We are an IT consultancy focused on building secure, dependable platforms and data systems.
+Our team combines hands-on engineering with clear, practical guidance so your teams can
+deliver faster without compromising security or reliability.&lt;/p&gt;
+&lt;h2&gt;What we do&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-we-do&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-we-do&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Strengthen security posture across infrastructure, applications, and data.&lt;/li&gt;
+&lt;li&gt;Design and operate resilient cloud and on-prem systems.&lt;/li&gt;
+&lt;li&gt;Build data platforms that are governed, observable, and ready for analytics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Focus areas&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;focus-areas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#focus-areas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;IT Security&lt;/strong&gt;&lt;br&gt;
+Threat modeling, hardening, identity and access management, security reviews, and
+automation that makes security repeatable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DevOps Engineering&lt;/strong&gt;&lt;br&gt;
+CI/CD pipelines, infrastructure as code, observability, incident readiness, and
+operational excellence that keeps services stable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Data Engineering&lt;/strong&gt;&lt;br&gt;
+Data ingestion, transformation, quality controls, and platform reliability so data is
+trusted and accessible.&lt;/p&gt;
+&lt;h2&gt;How we work&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-we-work&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-we-work&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We start by understanding your current setup and risk profile, then define a clear
+roadmap. We can embed with your team or lead a focused engagement, always aiming for
+measurable outcomes and knowledge transfer.&lt;/p&gt;
+
+      </description>
+    </item>
     
   </channel>
 </rss>

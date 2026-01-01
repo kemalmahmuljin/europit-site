@@ -1,6 +1,23 @@
 baseURL: https://www.europit.eu/
 languageCode: en-us
-title: EuropIT
+# title: EuropIT
+
+params:
+  navbar:
+    # displayTitle: true
+    displayLogo: true
+    logo: 
+      path: /images/europit.svg
+      # logoAlt: EuropIT Logo
+      height: 50
+      width: 150
+
+menu:
+  main:
+    - name: About
+      pageRef: /docs/introduction
+      weight: 1
+
 
 module:
   imports:

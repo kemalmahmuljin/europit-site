@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500"
+   height="200"
+   viewBox="0 0 132.29166 52.916666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="europit.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.2516342"
+     inkscape:cx="217.71536"
+     inkscape:cy="182.16185"
+     inkscape:window-width="1512"
+     inkscape:window-height="921"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showborder="true" />
+  <defs
+     id="defs1">
+    <rect
+       x="399.26862"
+       y="2.4004126"
+       width="130.42241"
+       height="120.02063"
+       id="rect18" />
+    <linearGradient
+       id="swatch5"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="swatch4"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#b5b5b5;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       id="swatch3"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g14"
+       transform="matrix(1,0,0,1.0246991,-0.88645134,-0.31345018)">
+      <path
+         style="fill:#d1543f;fill-opacity:1;stroke:none;stroke-width:3.175;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="132.29166"
+         x="0.8864513"
+         y="0.28816429"
+         inkscape:highlight-color="#d1543f"
+         sodipodi:type="rect"
+         inkscape:path-effect="#path-effect2"
+         d="M 0.8864513,0.28816429 H 133.17811 V 53.204828 H 0.8864513 Z"
+         height="52.916664"
+         inkscape:label="outer box" />
+    </g>
+    <circle
+       style="opacity:1;fill:#d1543f;fill-opacity:1;stroke:#ffffff;stroke-width:2.11667;stroke-dasharray:none;stroke-opacity:1"
+       id="path2"
+       cx="25.352776"
+       cy="26.300949"
+       r="20.757778"
+       transform="matrix(0.90959141,0,0,0.90959141,3.3976653,2.5352149)"
+       sodipodi:insensitive="true"
+       inkscape:label="outer circle" />
+    <g
+       id="g13"
+       transform="matrix(0.90959142,0,0,0.90959142,3.3976654,2.5352149)" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.13381;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path11"
+       inkscape:flatsided="true"
+       sodipodi:sides="6"
+       sodipodi:cx="26.892044"
+       sodipodi:cy="-12.716393"
+       sodipodi:r1="11.206836"
+       sodipodi:r2="5.6034179"
+       sodipodi:arg1="-2.0943951"
+       sodipodi:arg2="-1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 21.288626,-22.421798 11.206836,0 5.603418,9.705405 -5.603418,9.705404 -11.206836,0 -5.603418,-9.705404 z"
+       inkscape:transform-center-x="-0.16408807"
+       inkscape:transform-center-y="-0.73670707"
+       transform="matrix(0.76378041,-0.4299455,0.41935454,0.72264513,11.629129,47.197068)"
+       inkscape:label="inner hexagon"
+       sodipodi:insensitive="true" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.7817;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path14"
+       cx="35.674767"
+       cy="17.043829"
+       rx="0.035157196"
+       ry="7.0466151"
+       transform="rotate(0.7)" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.78177;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path14-1"
+       cx="44.448204"
+       cy="-19.323759"
+       rx="0.035157196"
+       ry="7.0466151"
+       transform="rotate(60)"
+       inkscape:label="connection-5"
+       sodipodi:insensitive="true" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.78177;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path14-5"
+       cx="17.826694"
+       cy="-45.708824"
+       rx="0.035157196"
+       ry="7.0466151"
+       transform="rotate(120)"
+       inkscape:label="connection-4"
+       sodipodi:insensitive="true" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.78177;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path14-2"
+       cx="18.278862"
+       cy="36.267948"
+       rx="0.035157196"
+       ry="7.0466151"
+       inkscape:label="connection-3"
+       sodipodi:insensitive="true" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.78177;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path14-6"
+       cx="28.179625"
+       cy="-0.12291871"
+       rx="0.035157196"
+       ry="7.0466151"
+       transform="rotate(60)"
+       inkscape:label="connection-2"
+       sodipodi:insensitive="true" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.78177;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path14-9"
+       cx="1.1660511"
+       cy="-26.903656"
+       rx="0.035157196"
+       ry="7.0466151"
+       transform="rotate(120)"
+       inkscape:label="connection-1"
+       sodipodi:insensitive="true" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.1979px;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';writing-mode:lr-tb;direction:ltr;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d1543f;stroke-width:1.7817;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       x="51.311066"
+       y="28.95801"
+       id="text16"
+       inkscape:label="europIT text"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.1979px;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';fill:#ffffff;fill-opacity:1;stroke:#d1543f;stroke-width:1.7817;stroke-dasharray:none;stroke-opacity:1"
+         x="51.311066"
+         y="28.95801"
+         sodipodi:role="line"
+         id="tspan18">EuropIT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.9375px;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:#d1543f;stroke-width:1.7817;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       x="67.618103"
+       y="42.144711"
+       id="text16-1"
+       inkscape:label="europIT text"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.9375px;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';fill:#ffffff;fill-opacity:1;stroke:#d1543f;stroke-width:1.7817;stroke-dasharray:none;stroke-opacity:1"
+         x="67.618103"
+         y="42.144711"
+         sodipodi:role="line"
+         id="tspan20">IT Consulting</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Rockwell;-inkscape-font-specification:'Rockwell Bold';writing-mode:lr-tb;direction:ltr;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#d1543f;stroke-width:1.7817;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       x="128.08034"
+       y="-26.039474"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="stroke-width:1.7817"
+         x="128.08034"
+         y="-26.039474"></tspan></text>
+  </g>
+</svg>
